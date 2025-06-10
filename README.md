@@ -1,6 +1,8 @@
 # Codex-Test
 
-This repository contains a simple command-line Hangman game written in Python.
+This repository contains a simple command-line Hangman game written in Python. The word list now features Judy Garland's feature films, so you can guess the titles of her movies.
+
+Spaces, punctuation, and digits in the titles are revealed automatically during play.
 
 ## How to run
 
